@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 303 451.54"
+   version="1.1"
+   sodipodi:docname="finder.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3065">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>finder_02</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1276"
+     inkscape:window-height="1400"
+     id="namedview3063"
+     showgrid="false"
+     inkscape:zoom="0.52265579"
+     inkscape:cx="-170.89191"
+     inkscape:cy="225.77"
+     inkscape:window-x="1280"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs3050">
+    <style
+       id="style3048">
+      .cls-1 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: 13px;
+      }
+
+      .cls-2 {
+        fill: #706f6f;
+      }
+
+      .cls-3 {
+        fill: #9d9d9c;
+      }
+
+      .cls-4 {
+        fill: #1d1d1b;
+      }
+    </style>
+  </defs>
+  <title
+     id="title3052">finder_02</title>
+  <path
+     class="cls-1"
+     d="M537,242c1.83-12,4.17-29.19,6-50,7.74-88.07-5.36-108.54-11-116-3.42-4.53-17.38-23-36-22-21.16,1.13-33.42,26.61-35,30-9.87,21.23-4.46,43,0,61,6.42,25.89,14.55,30.6,18,54a119.81,119.81,0,0,1-1,40"
+     transform="translate(-275 -47.46)"
+     id="path3054"
+     style="stroke:#373737;stroke-opacity:1" />
+  <path
+     class="cls-2"
+     d="M537.25,222H315.75A40.74,40.74,0,0,0,275,262.75v195.5A40.74,40.74,0,0,0,315.75,499h221.5A40.74,40.74,0,0,0,578,458.25V262.75A40.74,40.74,0,0,0,537.25,222ZM515.5,468A29.5,29.5,0,1,1,545,438.5,29.5,29.5,0,0,1,515.5,468Z"
+     transform="translate(-275 -47.46)"
+     id="path3056"
+     style="fill:#f39200;fill-opacity:1" />
+  <circle
+     class="cls-3"
+     cx="241"
+     cy="390.54"
+     r="40"
+     id="circle3058"
+     style="fill:#7f7f7e;fill-opacity:1" />
+  <circle
+     class="cls-4"
+     cx="241"
+     cy="390.54"
+     r="27"
+     id="circle3060"
+     style="fill:#373737;fill-opacity:1" />
+</svg>
